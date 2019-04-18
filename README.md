@@ -2,4 +2,4 @@
 
 *Completed by John Sullivan 4/18/2019*
 
-Surge URL: [Link](sulljohn-cs52-workshop-js-graphics.surge.sh)
+Surge URL: [Link](https://sulljohn-cs52-workshop-js-graphics.surge.sh/)
